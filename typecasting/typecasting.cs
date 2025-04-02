@@ -21,6 +21,12 @@ namespace C_sharp
             System.Console.WriteLine(num_double);
 
             //Explicit Type Casting(Casting):
+
+               double pi = 3.14159;
+               int approx_pi = (int)pi;  
+
+               int number = 123;
+               String str = Integer.toString(number);  
         }
     }
 
