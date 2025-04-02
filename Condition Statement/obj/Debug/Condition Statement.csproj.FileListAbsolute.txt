@@ -1,0 +1,7 @@
+C:\Users\mistr\source\repos\Condition Statement\bin\Debug\Condition Statement.exe.config
+C:\Users\mistr\source\repos\Condition Statement\bin\Debug\Condition Statement.exe
+C:\Users\mistr\source\repos\Condition Statement\bin\Debug\Condition Statement.pdb
+C:\Users\mistr\source\repos\Condition Statement\obj\Debug\Condition Statement.csproj.AssemblyReference.cache
+C:\Users\mistr\source\repos\Condition Statement\obj\Debug\Condition Statement.csproj.CoreCompileInputs.cache
+C:\Users\mistr\source\repos\Condition Statement\obj\Debug\Condition Statement.exe
+C:\Users\mistr\source\repos\Condition Statement\obj\Debug\Condition Statement.pdb
