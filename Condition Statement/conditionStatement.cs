@@ -34,7 +34,7 @@ namespace conditionStatement
                 System.Console.WriteLine("Wrong PIN");
             }
 
-            //else - if statement
+            //else-if statement
 
             int marks =57;
 
