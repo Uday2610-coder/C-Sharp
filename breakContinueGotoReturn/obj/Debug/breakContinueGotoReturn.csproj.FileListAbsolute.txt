@@ -1,0 +1,2 @@
+C:\Users\mistr\OneDrive\Desktop\C Sharp\breakContinueGotoReturn\obj\Debug\breakContinueGotoReturn.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\C Sharp\breakContinueGotoReturn\obj\Debug\breakContinueGotoReturn.csproj.CoreCompileInputs.cache
