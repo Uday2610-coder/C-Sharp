@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\class and object\obj\Debug\class and object.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\class and object\obj\Debug\class and object.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\class and object\bin\Debug\class and object.exe.config
+C:\Users\mistr\OneDrive\Desktop\class and object\bin\Debug\class and object.exe
+C:\Users\mistr\OneDrive\Desktop\class and object\bin\Debug\class and object.pdb
+C:\Users\mistr\OneDrive\Desktop\class and object\obj\Debug\class and object.exe
+C:\Users\mistr\OneDrive\Desktop\class and object\obj\Debug\class and object.pdb

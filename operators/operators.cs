@@ -55,7 +55,6 @@ namespace operators
 
             //4.CompsrisonOperators
 
-
             System.Console.WriteLine(322 > 22222);
             System.Console.WriteLine(322 < 22222);
             System.Console.WriteLine(322 >= 22222);

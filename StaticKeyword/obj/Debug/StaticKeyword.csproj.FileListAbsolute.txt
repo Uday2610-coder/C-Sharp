@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\StaticKeyword\bin\Debug\StaticKeyword.exe.config
+C:\Users\mistr\OneDrive\Desktop\StaticKeyword\bin\Debug\StaticKeyword.exe
+C:\Users\mistr\OneDrive\Desktop\StaticKeyword\bin\Debug\StaticKeyword.pdb
+C:\Users\mistr\OneDrive\Desktop\StaticKeyword\obj\Debug\StaticKeyword.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\StaticKeyword\obj\Debug\StaticKeyword.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\StaticKeyword\obj\Debug\StaticKeyword.exe
+C:\Users\mistr\OneDrive\Desktop\StaticKeyword\obj\Debug\StaticKeyword.pdb

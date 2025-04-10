@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe.config
+C:\Users\mistr\OneDrive\Desktop\AccessSpecifiers\bin\Debug\AccessSpecifiers.exe
+C:\Users\mistr\OneDrive\Desktop\AccessSpecifiers\bin\Debug\AccessSpecifiers.pdb
+C:\Users\mistr\OneDrive\Desktop\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\AccessSpecifiers\obj\Debug\AccessSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\AccessSpecifiers\obj\Debug\AccessSpecifiers.exe
+C:\Users\mistr\OneDrive\Desktop\AccessSpecifiers\obj\Debug\AccessSpecifiers.pdb

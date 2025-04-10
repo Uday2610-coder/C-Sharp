@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\String\obj\Debug\String.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\String\bin\Debug\String.exe.config
+C:\Users\mistr\OneDrive\Desktop\String\bin\Debug\String.exe
+C:\Users\mistr\OneDrive\Desktop\String\bin\Debug\String.pdb
+C:\Users\mistr\OneDrive\Desktop\String\obj\Debug\String.exe
+C:\Users\mistr\OneDrive\Desktop\String\obj\Debug\String.pdb

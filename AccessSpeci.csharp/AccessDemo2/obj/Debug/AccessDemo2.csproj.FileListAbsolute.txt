@@ -1,0 +1,11 @@
+C:\Users\mistr\OneDrive\Desktop\AccessDemo2\bin\Debug\AccessDemo2.exe.config
+C:\Users\mistr\OneDrive\Desktop\AccessDemo2\bin\Debug\AccessDemo2.exe
+C:\Users\mistr\OneDrive\Desktop\AccessDemo2\bin\Debug\AccessDemo2.pdb
+C:\Users\mistr\OneDrive\Desktop\AccessDemo2\bin\Debug\AccessSpecifiers.exe
+C:\Users\mistr\OneDrive\Desktop\AccessDemo2\bin\Debug\AccessSpecifiers.pdb
+C:\Users\mistr\OneDrive\Desktop\AccessDemo2\bin\Debug\AccessSpecifiers.exe.config
+C:\Users\mistr\OneDrive\Desktop\AccessDemo2\obj\Debug\AccessDemo2.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\AccessDemo2\obj\Debug\AccessDemo2.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\AccessDemo2\obj\Debug\AccessDe.7D332058.Up2Date
+C:\Users\mistr\OneDrive\Desktop\AccessDemo2\obj\Debug\AccessDemo2.exe
+C:\Users\mistr\OneDrive\Desktop\AccessDemo2\obj\Debug\AccessDemo2.pdb
