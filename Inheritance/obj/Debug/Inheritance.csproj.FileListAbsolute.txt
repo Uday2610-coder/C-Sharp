@@ -1,7 +1,0 @@
-C:\Users\mistr\OneDrive\Desktop\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
-C:\Users\mistr\OneDrive\Desktop\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
-C:\Users\mistr\OneDrive\Desktop\Inheritance\bin\Debug\Inheritance.exe.config
-C:\Users\mistr\OneDrive\Desktop\Inheritance\bin\Debug\Inheritance.exe
-C:\Users\mistr\OneDrive\Desktop\Inheritance\bin\Debug\Inheritance.pdb
-C:\Users\mistr\OneDrive\Desktop\Inheritance\obj\Debug\Inheritance.exe
-C:\Users\mistr\OneDrive\Desktop\Inheritance\obj\Debug\Inheritance.pdb
