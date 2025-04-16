@@ -98,6 +98,28 @@ namespace Constructor
 
     }
 
+    public class A
+    {
+        static int i;
+        static A()
+        {
+            i = 10;
+            Console.WriteLine("Static Constructor A Called " + i);
+        }
+
+        public A()
+        {
+            Console.WriteLine("Default Constructor A Called " + i);
+        }
+
+        public A(int i)
+        {
+            Console.WriteLine("Parameterized Constructor A Called " + i);
+        }
+
+    }
+
+
 
 
 
@@ -135,6 +157,9 @@ namespace Constructor
             s.getInfo();
             Console.WriteLine("----------------------------------------------");
             Console.WriteLine("----------------------------------------------");
+
+            A a = new A();
+            A a1 = new A(20);
 
 
             Console.ReadLine();

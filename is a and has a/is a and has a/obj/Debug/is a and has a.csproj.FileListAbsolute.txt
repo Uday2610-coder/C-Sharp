@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\is a and has a\is a and has a\bin\Debug\is a and has a.exe.config
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\is a and has a\is a and has a\bin\Debug\is a and has a.exe
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\is a and has a\is a and has a\bin\Debug\is a and has a.pdb
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\is a and has a\is a and has a\obj\Debug\is a and has a.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\is a and has a\is a and has a\obj\Debug\is a and has a.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\is a and has a\is a and has a\obj\Debug\is a and has a.exe
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\is a and has a\is a and has a\obj\Debug\is a and has a.pdb

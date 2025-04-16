@@ -5,3 +5,10 @@ C:\Users\mistr\OneDrive\Desktop\Constructor\bin\Debug\Constructor.exe
 C:\Users\mistr\OneDrive\Desktop\Constructor\bin\Debug\Constructor.pdb
 C:\Users\mistr\OneDrive\Desktop\Constructor\obj\Debug\Constructor.exe
 C:\Users\mistr\OneDrive\Desktop\Constructor\obj\Debug\Constructor.pdb
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\Constructor\bin\Debug\Constructor.exe.config
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\Constructor\bin\Debug\Constructor.exe
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\Constructor\bin\Debug\Constructor.pdb
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\Constructor\obj\Debug\Constructor.exe
+C:\Users\mistr\OneDrive\Desktop\Git hub\C Sharp\Constructor\obj\Debug\Constructor.pdb

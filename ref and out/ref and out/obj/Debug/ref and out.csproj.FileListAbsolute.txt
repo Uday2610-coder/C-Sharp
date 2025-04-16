@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\ref and out\ref and out\bin\Debug\ref and out.exe.config
+C:\Users\mistr\OneDrive\Desktop\ref and out\ref and out\bin\Debug\ref and out.exe
+C:\Users\mistr\OneDrive\Desktop\ref and out\ref and out\bin\Debug\ref and out.pdb
+C:\Users\mistr\OneDrive\Desktop\ref and out\ref and out\obj\Debug\ref and out.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\ref and out\ref and out\obj\Debug\ref and out.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\ref and out\ref and out\obj\Debug\ref and out.exe
+C:\Users\mistr\OneDrive\Desktop\ref and out\ref and out\obj\Debug\ref and out.pdb

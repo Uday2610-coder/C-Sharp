@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mistr\\OneDrive\\Desktop\\ref and out\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59F2AF28-BEE1-4FC8-9ED6-D9A0A8F67556}|ref and out\\ref and out.csproj|c:\\users\\mistr\\onedrive\\desktop\\ref and out\\ref and out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59F2AF28-BEE1-4FC8-9ED6-D9A0A8F67556}|ref and out\\ref and out.csproj|solutionrelative:ref and out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\ref and out\\ref and out\\Program.cs",
+              "RelativeDocumentMoniker": "ref and out\\Program.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\ref and out\\ref and out\\Program.cs",
+              "RelativeToolTip": "ref and out\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T08:02:40.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mistr\\OneDrive\\Desktop\\MethodHiding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9717EBF3-8271-4CDE-B3FB-DBDE6B1CDA65}|MethodHiding\\MethodHiding.csproj|c:\\users\\mistr\\onedrive\\desktop\\methodhiding\\methodhiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9717EBF3-8271-4CDE-B3FB-DBDE6B1CDA65}|MethodHiding\\MethodHiding.csproj|solutionrelative:methodhiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\MethodHiding\\MethodHiding\\Program.cs",
+              "RelativeDocumentMoniker": "MethodHiding\\Program.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\MethodHiding\\MethodHiding\\Program.cs*",
+              "RelativeToolTip": "MethodHiding\\Program.cs*",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwH4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T13:26:32.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

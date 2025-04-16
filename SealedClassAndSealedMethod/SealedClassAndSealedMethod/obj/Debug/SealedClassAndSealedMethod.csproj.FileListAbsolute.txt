@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\SealedClassAndSealedMethod\SealedClassAndSealedMethod\bin\Debug\SealedClassAndSealedMethod.exe.config
+C:\Users\mistr\OneDrive\Desktop\SealedClassAndSealedMethod\SealedClassAndSealedMethod\bin\Debug\SealedClassAndSealedMethod.exe
+C:\Users\mistr\OneDrive\Desktop\SealedClassAndSealedMethod\SealedClassAndSealedMethod\bin\Debug\SealedClassAndSealedMethod.pdb
+C:\Users\mistr\OneDrive\Desktop\SealedClassAndSealedMethod\SealedClassAndSealedMethod\obj\Debug\SealedClassAndSealedMethod.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\SealedClassAndSealedMethod\SealedClassAndSealedMethod\obj\Debug\SealedClassAndSealedMethod.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\SealedClassAndSealedMethod\SealedClassAndSealedMethod\obj\Debug\SealedClassAndSealedMethod.exe
+C:\Users\mistr\OneDrive\Desktop\SealedClassAndSealedMethod\SealedClassAndSealedMethod\obj\Debug\SealedClassAndSealedMethod.pdb
