@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\Var and Dynamic keyword\Var and Dynamic keyword\bin\Debug\Var and Dynamic keyword.exe.config
+C:\Users\mistr\OneDrive\Desktop\Var and Dynamic keyword\Var and Dynamic keyword\bin\Debug\Var and Dynamic keyword.exe
+C:\Users\mistr\OneDrive\Desktop\Var and Dynamic keyword\Var and Dynamic keyword\bin\Debug\Var and Dynamic keyword.pdb
+C:\Users\mistr\OneDrive\Desktop\Var and Dynamic keyword\Var and Dynamic keyword\obj\Debug\Var and Dynamic keyword.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Var and Dynamic keyword\Var and Dynamic keyword\obj\Debug\Var and Dynamic keyword.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Var and Dynamic keyword\Var and Dynamic keyword\obj\Debug\Var and Dynamic keyword.exe
+C:\Users\mistr\OneDrive\Desktop\Var and Dynamic keyword\Var and Dynamic keyword\obj\Debug\Var and Dynamic keyword.pdb
