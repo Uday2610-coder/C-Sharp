@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\DifferentTypeOfVariable\DifferentTypeOfVariable\bin\Debug\DifferentTypeOfVariable.exe.config
+C:\Users\mistr\OneDrive\Desktop\DifferentTypeOfVariable\DifferentTypeOfVariable\bin\Debug\DifferentTypeOfVariable.exe
+C:\Users\mistr\OneDrive\Desktop\DifferentTypeOfVariable\DifferentTypeOfVariable\bin\Debug\DifferentTypeOfVariable.pdb
+C:\Users\mistr\OneDrive\Desktop\DifferentTypeOfVariable\DifferentTypeOfVariable\obj\Debug\DifferentTypeOfVariable.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\DifferentTypeOfVariable\DifferentTypeOfVariable\obj\Debug\DifferentTypeOfVariable.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\DifferentTypeOfVariable\DifferentTypeOfVariable\obj\Debug\DifferentTypeOfVariable.exe
+C:\Users\mistr\OneDrive\Desktop\DifferentTypeOfVariable\DifferentTypeOfVariable\obj\Debug\DifferentTypeOfVariable.pdb
