@@ -13,8 +13,6 @@ namespace Array
 
             /* Array - is a collection of element of a single data
             type & is a collection of releted values*/
-
-
             //array with size provided
             int[] myArray = new int[4];
 
@@ -64,7 +62,6 @@ namespace Array
             // 2d array [2,3] means 2 rows and 3 columns
             int[,] twoDArray = new int[2, 3];
 
-            
             for(int i = 0; i < 2; i++) // row
             {
                 for (int j = 0; j < 3; j++) // column
@@ -83,17 +80,12 @@ namespace Array
             }
 
             //int[,] twoDArray = new int[2, 3] { { 1, 2, 3 }, { 4, 5, 6 } };
-
             Console.WriteLine(twoDArray[0, 0]);
             Console.WriteLine(twoDArray[0, 1]);
             Console.WriteLine(twoDArray[0, 2]);
 
-
             twoDArray[0, 0] = 100;
             Console.WriteLine(twoDArray[0, 0]);
-
-
-
             //3d array [2,2,2] means 2 rows, 2 columns and 2 depth
             int[,,] threeDArray = new int[2, 2, 2];
             for (int i = 0; i < 2; i++) // row
@@ -117,12 +109,7 @@ namespace Array
                     }
                 }
             }
-
-
-
             Console.ReadLine();
-
-
         }
     }
 }
