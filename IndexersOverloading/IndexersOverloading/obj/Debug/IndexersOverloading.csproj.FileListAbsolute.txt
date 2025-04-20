@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\IndexersOverloading\IndexersOverloading\bin\Debug\IndexersOverloading.exe.config
+C:\Users\mistr\OneDrive\Desktop\IndexersOverloading\IndexersOverloading\bin\Debug\IndexersOverloading.exe
+C:\Users\mistr\OneDrive\Desktop\IndexersOverloading\IndexersOverloading\bin\Debug\IndexersOverloading.pdb
+C:\Users\mistr\OneDrive\Desktop\IndexersOverloading\IndexersOverloading\obj\Debug\IndexersOverloading.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\IndexersOverloading\IndexersOverloading\obj\Debug\IndexersOverloading.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\IndexersOverloading\IndexersOverloading\obj\Debug\IndexersOverloading.exe
+C:\Users\mistr\OneDrive\Desktop\IndexersOverloading\IndexersOverloading\obj\Debug\IndexersOverloading.pdb
