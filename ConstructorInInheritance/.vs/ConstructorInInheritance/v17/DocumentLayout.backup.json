@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mistr\\OneDrive\\Desktop\\ConstructorInInheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE74A44-DF45-4BCF-833B-833A2C068F5C}|ConstructorInInheritance\\ConstructorInInheritance.csproj|c:\\users\\mistr\\onedrive\\desktop\\constructorininheritance\\constructorininheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE74A44-DF45-4BCF-833B-833A2C068F5C}|ConstructorInInheritance\\ConstructorInInheritance.csproj|solutionrelative:constructorininheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\ConstructorInInheritance\\ConstructorInInheritance\\Program.cs",
+              "RelativeDocumentMoniker": "ConstructorInInheritance\\Program.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\ConstructorInInheritance\\ConstructorInInheritance\\Program.cs",
+              "RelativeToolTip": "ConstructorInInheritance\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA8wDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T06:28:18.774Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

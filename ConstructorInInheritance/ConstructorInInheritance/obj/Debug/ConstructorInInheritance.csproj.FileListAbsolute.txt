@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\ConstructorInInheritance\ConstructorInInheritance\obj\Debug\ConstructorInInheritance.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\ConstructorInInheritance\ConstructorInInheritance\obj\Debug\ConstructorInInheritance.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\ConstructorInInheritance\ConstructorInInheritance\bin\Debug\ConstructorInInheritance.exe.config
+C:\Users\mistr\OneDrive\Desktop\ConstructorInInheritance\ConstructorInInheritance\bin\Debug\ConstructorInInheritance.exe
+C:\Users\mistr\OneDrive\Desktop\ConstructorInInheritance\ConstructorInInheritance\bin\Debug\ConstructorInInheritance.pdb
+C:\Users\mistr\OneDrive\Desktop\ConstructorInInheritance\ConstructorInInheritance\obj\Debug\ConstructorInInheritance.exe
+C:\Users\mistr\OneDrive\Desktop\ConstructorInInheritance\ConstructorInInheritance\obj\Debug\ConstructorInInheritance.pdb
