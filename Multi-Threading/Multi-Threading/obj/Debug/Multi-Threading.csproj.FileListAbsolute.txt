@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\Multi-Threading\Multi-Threading\bin\Debug\Multi-Threading.exe.config
+C:\Users\mistr\OneDrive\Desktop\Multi-Threading\Multi-Threading\bin\Debug\Multi-Threading.exe
+C:\Users\mistr\OneDrive\Desktop\Multi-Threading\Multi-Threading\bin\Debug\Multi-Threading.pdb
+C:\Users\mistr\OneDrive\Desktop\Multi-Threading\Multi-Threading\obj\Debug\Multi-Threading.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Multi-Threading\Multi-Threading\obj\Debug\Multi-Threading.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Multi-Threading\Multi-Threading\obj\Debug\Multi-Threading.exe
+C:\Users\mistr\OneDrive\Desktop\Multi-Threading\Multi-Threading\obj\Debug\Multi-Threading.pdb

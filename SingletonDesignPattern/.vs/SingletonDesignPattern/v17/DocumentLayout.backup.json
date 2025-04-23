@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mistr\\OneDrive\\Desktop\\SingletonDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9390F0C1-E62A-4E9F-8FA8-01C2DE7C1659}|SingletonDesignPattern\\SingletonDesignPattern.csproj|C:\\Users\\mistr\\OneDrive\\Desktop\\SingletonDesignPattern\\singletondesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9390F0C1-E62A-4E9F-8FA8-01C2DE7C1659}|SingletonDesignPattern\\SingletonDesignPattern.csproj|solutionrelative:singletondesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9390F0C1-E62A-4E9F-8FA8-01C2DE7C1659}|SingletonDesignPattern\\SingletonDesignPattern.csproj|c:\\users\\mistr\\onedrive\\desktop\\singletondesignpattern\\singletondesignpattern\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9390F0C1-E62A-4E9F-8FA8-01C2DE7C1659}|SingletonDesignPattern\\SingletonDesignPattern.csproj|solutionrelative:singletondesignpattern\\myclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyClass.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\SingletonDesignPattern\\SingletonDesignPattern\\MyClass.cs",
+              "RelativeDocumentMoniker": "SingletonDesignPattern\\MyClass.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\SingletonDesignPattern\\SingletonDesignPattern\\MyClass.cs*",
+              "RelativeToolTip": "SingletonDesignPattern\\MyClass.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:47:09.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\SingletonDesignPattern\\SingletonDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "SingletonDesignPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\SingletonDesignPattern\\SingletonDesignPattern\\Program.cs",
+              "RelativeToolTip": "SingletonDesignPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T17:45:34.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
