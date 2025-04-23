@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\Interface\Interface\bin\Debug\Interface.exe.config
+C:\Users\mistr\OneDrive\Desktop\Interface\Interface\bin\Debug\Interface.exe
+C:\Users\mistr\OneDrive\Desktop\Interface\Interface\bin\Debug\Interface.pdb
+C:\Users\mistr\OneDrive\Desktop\Interface\Interface\obj\Debug\Interface.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Interface\Interface\obj\Debug\Interface.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Interface\Interface\obj\Debug\Interface.exe
+C:\Users\mistr\OneDrive\Desktop\Interface\Interface\obj\Debug\Interface.pdb
