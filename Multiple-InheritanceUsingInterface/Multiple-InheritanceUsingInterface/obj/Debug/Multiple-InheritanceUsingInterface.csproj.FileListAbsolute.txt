@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\Multiple-InheritanceUsingInterface\Multiple-InheritanceUsingInterface\bin\Debug\Multiple-InheritanceUsingInterface.exe.config
+C:\Users\mistr\OneDrive\Desktop\Multiple-InheritanceUsingInterface\Multiple-InheritanceUsingInterface\bin\Debug\Multiple-InheritanceUsingInterface.exe
+C:\Users\mistr\OneDrive\Desktop\Multiple-InheritanceUsingInterface\Multiple-InheritanceUsingInterface\bin\Debug\Multiple-InheritanceUsingInterface.pdb
+C:\Users\mistr\OneDrive\Desktop\Multiple-InheritanceUsingInterface\Multiple-InheritanceUsingInterface\obj\Debug\Multiple-InheritanceUsingInterface.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Multiple-InheritanceUsingInterface\Multiple-InheritanceUsingInterface\obj\Debug\Multiple-InheritanceUsingInterface.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Multiple-InheritanceUsingInterface\Multiple-InheritanceUsingInterface\obj\Debug\Multiple-InheritanceUsingInterface.exe
+C:\Users\mistr\OneDrive\Desktop\Multiple-InheritanceUsingInterface\Multiple-InheritanceUsingInterface\obj\Debug\Multiple-InheritanceUsingInterface.pdb
