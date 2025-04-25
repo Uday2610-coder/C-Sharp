@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mistr\\OneDrive\\Desktop\\FactoryDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{630BA790-828C-4215-8D09-1402919C0AC4}|FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\mistr\\onedrive\\desktop\\factorydesignpattern\\factorydesignpattern\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630BA790-828C-4215-8D09-1402919C0AC4}|FactoryDesignPattern\\FactoryDesignPattern.csproj|solutionrelative:factorydesignpattern\\vehiclefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{630BA790-828C-4215-8D09-1402919C0AC4}|FactoryDesignPattern\\FactoryDesignPattern.csproj|c:\\users\\mistr\\onedrive\\desktop\\factorydesignpattern\\factorydesignpattern\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{630BA790-828C-4215-8D09-1402919C0AC4}|FactoryDesignPattern\\FactoryDesignPattern.csproj|solutionrelative:factorydesignpattern\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\FactoryDesignPattern\\FactoryDesignPattern\\IVehicle.cs",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\FactoryDesignPattern\\FactoryDesignPattern\\IVehicle.cs",
+              "RelativeToolTip": "FactoryDesignPattern\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:25:04.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VehicleFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\FactoryDesignPattern\\FactoryDesignPattern\\VehicleFactory.cs",
+              "RelativeDocumentMoniker": "FactoryDesignPattern\\VehicleFactory.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\FactoryDesignPattern\\FactoryDesignPattern\\VehicleFactory.cs",
+              "RelativeToolTip": "FactoryDesignPattern\\VehicleFactory.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T05:24:48.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

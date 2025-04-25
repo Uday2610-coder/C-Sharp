@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\Structure\Structure\obj\Debug\Structure.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Structure\Structure\obj\Debug\Structure.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Structure\Structure\bin\Debug\Structure.exe.config
+C:\Users\mistr\OneDrive\Desktop\Structure\Structure\bin\Debug\Structure.exe
+C:\Users\mistr\OneDrive\Desktop\Structure\Structure\bin\Debug\Structure.pdb
+C:\Users\mistr\OneDrive\Desktop\Structure\Structure\obj\Debug\Structure.exe
+C:\Users\mistr\OneDrive\Desktop\Structure\Structure\obj\Debug\Structure.pdb
