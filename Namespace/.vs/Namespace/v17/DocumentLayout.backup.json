@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mistr\\OneDrive\\Desktop\\Namespace\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54956F0D-2732-4C5C-B449-D3E5F7565C7B}|Namespace2\\Namespace2.csproj|c:\\users\\mistr\\onedrive\\desktop\\namespace\\namespace2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54956F0D-2732-4C5C-B449-D3E5F7565C7B}|Namespace2\\Namespace2.csproj|solutionrelative:namespace2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C77081D7-40A1-47E3-A464-328EED117D41}|DLL(Library)\\DLL(Library).csproj|c:\\users\\mistr\\onedrive\\desktop\\namespace\\dll(library)\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C77081D7-40A1-47E3-A464-328EED117D41}|DLL(Library)\\DLL(Library).csproj|solutionrelative:dll(library)\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{623BF89D-EFE4-4B43-B955-10C040AE9FDC}|Namespace\\Namespace.csproj|c:\\users\\mistr\\onedrive\\desktop\\namespace\\namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{623BF89D-EFE4-4B43-B955-10C040AE9FDC}|Namespace\\Namespace.csproj|solutionrelative:namespace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\Namespace\\DLL(Library)\\Class1.cs",
+              "RelativeDocumentMoniker": "DLL(Library)\\Class1.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\Namespace\\DLL(Library)\\Class1.cs",
+              "RelativeToolTip": "DLL(Library)\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:58:29.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\Namespace\\Namespace2\\Program.cs",
+              "RelativeDocumentMoniker": "Namespace2\\Program.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\Namespace\\Namespace2\\Program.cs*",
+              "RelativeToolTip": "Namespace2\\Program.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwD4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:21:54.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\Namespace\\Namespace\\Program.cs",
+              "RelativeDocumentMoniker": "Namespace\\Program.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\Namespace\\Namespace\\Program.cs",
+              "RelativeToolTip": "Namespace\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T04:21:22.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

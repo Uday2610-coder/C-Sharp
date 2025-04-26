@@ -1,0 +1,6 @@
+C:\Users\mistr\OneDrive\Desktop\Namespace\DLL(Library)\bin\Debug\DLL(Library).dll
+C:\Users\mistr\OneDrive\Desktop\Namespace\DLL(Library)\bin\Debug\DLL(Library).pdb
+C:\Users\mistr\OneDrive\Desktop\Namespace\DLL(Library)\obj\Debug\DLL(Library).csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Namespace\DLL(Library)\obj\Debug\DLL(Library).csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Namespace\DLL(Library)\obj\Debug\DLL(Library).dll
+C:\Users\mistr\OneDrive\Desktop\Namespace\DLL(Library)\obj\Debug\DLL(Library).pdb

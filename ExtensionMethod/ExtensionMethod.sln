@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethod", "ExtensionMethod\ExtensionMethod.csproj", "{C387F425-1C80-4246-B0BB-E71467444930}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DllClassLibrary", "DllClassLibrary\DllClassLibrary.csproj", "{D34E27F5-E702-48D8-88A3-CFB4339A5E88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C387F425-1C80-4246-B0BB-E71467444930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C387F425-1C80-4246-B0BB-E71467444930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C387F425-1C80-4246-B0BB-E71467444930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C387F425-1C80-4246-B0BB-E71467444930}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D34E27F5-E702-48D8-88A3-CFB4339A5E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D34E27F5-E702-48D8-88A3-CFB4339A5E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D34E27F5-E702-48D8-88A3-CFB4339A5E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D34E27F5-E702-48D8-88A3-CFB4339A5E88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71AD29E4-5CEF-4C60-8DFA-E28452FFD16D}
+	EndGlobalSection
+EndGlobal

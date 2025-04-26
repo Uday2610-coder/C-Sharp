@@ -1,0 +1,13 @@
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\bin\Debug\Namespace2.exe.config
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\bin\Debug\Namespace2.exe
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\bin\Debug\Namespace2.pdb
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\bin\Debug\Namespace.exe
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\bin\Debug\Namespace.pdb
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\bin\Debug\Namespace.exe.config
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\obj\Debug\Namespace2.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\obj\Debug\Namespace2.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\obj\Debug\Namespace2.csproj.Up2Date
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\obj\Debug\Namespace2.exe
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\obj\Debug\Namespace2.pdb
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\bin\Debug\DLL(Library).dll
+C:\Users\mistr\OneDrive\Desktop\Namespace\Namespace2\bin\Debug\DLL(Library).pdb
