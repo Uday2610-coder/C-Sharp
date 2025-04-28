@@ -80,8 +80,7 @@ namespace MethodHiding
             parent p = new child();
             p.show(); // Calls the parent class method using polymorphism 
 
-            Console.WriteLine("-------------------------------------------");
-            Console.WriteLine("-------------------------------------------");
+            Console.WriteLine("-------------------------------------------");     Console.WriteLine("-------------------------------------------");
 
            
             partTimeEmployee pte = new partTimeEmployee();
