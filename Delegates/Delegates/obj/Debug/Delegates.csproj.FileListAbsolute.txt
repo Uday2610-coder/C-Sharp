@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\mistr\OneDrive\Desktop\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\mistr\OneDrive\Desktop\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\mistr\OneDrive\Desktop\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\mistr\OneDrive\Desktop\Delegates\Delegates\obj\Debug\Delegates.pdb
