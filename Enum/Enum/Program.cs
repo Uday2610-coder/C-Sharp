@@ -78,6 +78,7 @@ namespace Enum
             {
                 case Day.Sunday:
                     Console.WriteLine("Hello This is Sunday");
+
                     break;
                 case Day.Monday:
                     Console.WriteLine("Hello This is Monday");
@@ -103,6 +104,7 @@ namespace Enum
             }
 
             Console.WriteLine("----------------------------------------------------");
+
 
             // using value
             int MyDay1 = (int)Day.Wednesday;
@@ -134,6 +136,7 @@ namespace Enum
                     Console.WriteLine("Invalid Day!!");
                     break;
             }
+
 
             Console.ReadLine();
         }
