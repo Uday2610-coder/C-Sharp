@@ -44,5 +44,8 @@ namespace datatype_variables
             double myDouble = 5.88D;
             System.Console.WriteLine(myDouble);
         }
+
     }
+
 }
+
