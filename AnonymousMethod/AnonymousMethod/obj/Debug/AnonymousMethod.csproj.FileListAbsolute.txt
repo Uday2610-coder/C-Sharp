@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe.config
+C:\Users\mistr\OneDrive\Desktop\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.exe
+C:\Users\mistr\OneDrive\Desktop\AnonymousMethod\AnonymousMethod\bin\Debug\AnonymousMethod.pdb
+C:\Users\mistr\OneDrive\Desktop\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.exe
+C:\Users\mistr\OneDrive\Desktop\AnonymousMethod\AnonymousMethod\obj\Debug\AnonymousMethod.pdb

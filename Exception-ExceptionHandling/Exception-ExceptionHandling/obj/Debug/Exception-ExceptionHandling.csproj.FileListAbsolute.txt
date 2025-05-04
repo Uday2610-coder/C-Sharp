@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\Exception-ExceptionHandling\Exception-ExceptionHandling\bin\Debug\Exception-ExceptionHandling.exe.config
+C:\Users\mistr\OneDrive\Desktop\Exception-ExceptionHandling\Exception-ExceptionHandling\bin\Debug\Exception-ExceptionHandling.exe
+C:\Users\mistr\OneDrive\Desktop\Exception-ExceptionHandling\Exception-ExceptionHandling\bin\Debug\Exception-ExceptionHandling.pdb
+C:\Users\mistr\OneDrive\Desktop\Exception-ExceptionHandling\Exception-ExceptionHandling\obj\Debug\Exception-ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Exception-ExceptionHandling\Exception-ExceptionHandling\obj\Debug\Exception-ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Exception-ExceptionHandling\Exception-ExceptionHandling\obj\Debug\Exception-ExceptionHandling.exe
+C:\Users\mistr\OneDrive\Desktop\Exception-ExceptionHandling\Exception-ExceptionHandling\obj\Debug\Exception-ExceptionHandling.pdb

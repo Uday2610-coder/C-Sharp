@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\Object Initializer\Object Initializer\bin\Debug\Object Initializer.exe.config
+C:\Users\mistr\OneDrive\Desktop\Object Initializer\Object Initializer\bin\Debug\Object Initializer.exe
+C:\Users\mistr\OneDrive\Desktop\Object Initializer\Object Initializer\bin\Debug\Object Initializer.pdb
+C:\Users\mistr\OneDrive\Desktop\Object Initializer\Object Initializer\obj\Debug\Object Initializer.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Object Initializer\Object Initializer\obj\Debug\Object Initializer.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Object Initializer\Object Initializer\obj\Debug\Object Initializer.exe
+C:\Users\mistr\OneDrive\Desktop\Object Initializer\Object Initializer\obj\Debug\Object Initializer.pdb

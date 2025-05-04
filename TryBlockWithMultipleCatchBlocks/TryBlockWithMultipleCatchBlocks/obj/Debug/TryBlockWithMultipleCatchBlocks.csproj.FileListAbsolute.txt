@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\TryBlockWithMultipleCatchBlocks\TryBlockWithMultipleCatchBlocks\bin\Debug\TryBlockWithMultipleCatchBlocks.exe.config
+C:\Users\mistr\OneDrive\Desktop\TryBlockWithMultipleCatchBlocks\TryBlockWithMultipleCatchBlocks\bin\Debug\TryBlockWithMultipleCatchBlocks.exe
+C:\Users\mistr\OneDrive\Desktop\TryBlockWithMultipleCatchBlocks\TryBlockWithMultipleCatchBlocks\bin\Debug\TryBlockWithMultipleCatchBlocks.pdb
+C:\Users\mistr\OneDrive\Desktop\TryBlockWithMultipleCatchBlocks\TryBlockWithMultipleCatchBlocks\obj\Debug\TryBlockWithMultipleCatchBlocks.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\TryBlockWithMultipleCatchBlocks\TryBlockWithMultipleCatchBlocks\obj\Debug\TryBlockWithMultipleCatchBlocks.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\TryBlockWithMultipleCatchBlocks\TryBlockWithMultipleCatchBlocks\obj\Debug\TryBlockWithMultipleCatchBlocks.exe
+C:\Users\mistr\OneDrive\Desktop\TryBlockWithMultipleCatchBlocks\TryBlockWithMultipleCatchBlocks\obj\Debug\TryBlockWithMultipleCatchBlocks.pdb
