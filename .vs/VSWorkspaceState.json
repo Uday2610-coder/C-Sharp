@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\class and object"
+    "\\Array",
+    "\\Boxing and Unboxing"
   ],
+  "SelectedNode": "\\Array\\array.cs",
   "PreviewInSolutionExplorer": false
 }
