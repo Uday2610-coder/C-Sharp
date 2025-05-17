@@ -1,0 +1,7 @@
+C:\Users\mistr\OneDrive\Desktop\Non-Generic Collections\Non-Generic Collections\bin\Debug\Non-Generic Collections.exe.config
+C:\Users\mistr\OneDrive\Desktop\Non-Generic Collections\Non-Generic Collections\bin\Debug\Non-Generic Collections.exe
+C:\Users\mistr\OneDrive\Desktop\Non-Generic Collections\Non-Generic Collections\bin\Debug\Non-Generic Collections.pdb
+C:\Users\mistr\OneDrive\Desktop\Non-Generic Collections\Non-Generic Collections\obj\Debug\Non-Generic Collections.csproj.AssemblyReference.cache
+C:\Users\mistr\OneDrive\Desktop\Non-Generic Collections\Non-Generic Collections\obj\Debug\Non-Generic Collections.csproj.CoreCompileInputs.cache
+C:\Users\mistr\OneDrive\Desktop\Non-Generic Collections\Non-Generic Collections\obj\Debug\Non-Generic Collections.exe
+C:\Users\mistr\OneDrive\Desktop\Non-Generic Collections\Non-Generic Collections\obj\Debug\Non-Generic Collections.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mistr\\OneDrive\\Desktop\\GenericCollection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F416F93C-9726-4198-AD1C-FF7964425E8F}|GenericCollection\\GenericCollection.csproj|c:\\users\\mistr\\onedrive\\desktop\\genericcollection\\genericcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F416F93C-9726-4198-AD1C-FF7964425E8F}|GenericCollection\\GenericCollection.csproj|solutionrelative:genericcollection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F416F93C-9726-4198-AD1C-FF7964425E8F}|GenericCollection\\GenericCollection.csproj|c:\\users\\mistr\\onedrive\\desktop\\genericcollection\\genericcollection\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F416F93C-9726-4198-AD1C-FF7964425E8F}|GenericCollection\\GenericCollection.csproj|solutionrelative:genericcollection\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\GenericCollection\\GenericCollection\\Employee.cs",
+              "RelativeDocumentMoniker": "GenericCollection\\Employee.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\GenericCollection\\GenericCollection\\Employee.cs",
+              "RelativeToolTip": "GenericCollection\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:52:55.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mistr\\OneDrive\\Desktop\\GenericCollection\\GenericCollection\\Program.cs",
+              "RelativeDocumentMoniker": "GenericCollection\\Program.cs",
+              "ToolTip": "C:\\Users\\mistr\\OneDrive\\Desktop\\GenericCollection\\GenericCollection\\Program.cs*",
+              "RelativeToolTip": "GenericCollection\\Program.cs*",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAmwPEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T06:21:45.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
